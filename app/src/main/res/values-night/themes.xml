@@ -18,6 +18,12 @@
     </style>
 
     <style name="BG">
-        <item name="android:background">@drawable/night_bg</item>
+        <item name="android:background">@color/yellow</item>
+    </style>
+
+    <style name="CardViewStyle" parent="CardView">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/yellow</item>
     </style>
 </resources>

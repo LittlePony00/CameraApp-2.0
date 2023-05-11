@@ -2,4 +2,6 @@
     <string name="app_name">CameraApp2.0</string>
     <string name="cameraapp">CameraApp</string>
     <string name="result">Result:</string>
+    <string name="mode">Mode</string>
+    <string name="donate">Donate</string>
 </resources>
