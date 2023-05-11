@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraApp2.0</string>
+    <string name="cameraapp">CameraApp</string>
+    <string name="result">Result:</string>
+</resources>

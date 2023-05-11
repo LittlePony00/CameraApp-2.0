@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CameraApp20" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="SCREEN">
+        <item name="android:background">@color/black</item>
+    </style>
+    
+    <style name="TEXT">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <style name="BUTTON">
+        <item name="android:background">@drawable/bottom_background_list</item>
+    </style>
+
+    <style name="BG">
+        <item name="android:background">@drawable/night_bg</item>
+    </style>
+</resources>

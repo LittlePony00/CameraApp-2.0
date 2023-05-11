@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_gallery"
+        android:icon="@drawable/baseline_insert_photo_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:title="Search" />
+    <item
+        android:id="@+id/bottom_list"
+        android:icon="@drawable/ic_backpack"
+        android:title="Settings" />
+</menu>
